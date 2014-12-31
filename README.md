@@ -262,3 +262,8 @@ For more information on AngularJS please check out http://angularjs.org/
 [protractor]: https://github.com/angular/protractor
 [jasmine]: http://pivotal.github.com/jasmine/
 [karma]: http://karma-runner.github.io
+=======
+angular-phonecat
+================
+
+AngularJS Phone Catalog Tutorial Application
